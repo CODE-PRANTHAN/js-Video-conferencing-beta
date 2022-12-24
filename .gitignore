@@ -94,6 +94,9 @@ dist
 # Serverless directories
 .serverless/
 
+#cyclic.sh
+node_modules
+
 # FuseBox cache
 .fusebox/
 
