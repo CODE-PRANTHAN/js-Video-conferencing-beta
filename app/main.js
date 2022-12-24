@@ -1,5 +1,4 @@
-
-The codes for a node.js video conferencing app will depend on the specific libraries and frameworks used in the app. However, here is a basic example of code that could be used to create a basic video conferencing application in node.js:
+// The codes for a node.js video conferencing app will depend on the specific libraries and frameworks used in the app. However, here is a basic example of code that could be used to create a basic video conferencing application in node.js:
 
 // Load the necessary modules and libraries
 var express = require('express');
