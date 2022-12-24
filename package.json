@@ -1,0 +1,21 @@
+{
+    "name": "js-Video-conferencing-beta",
+    "version": "1.0.0",
+    "description": "na",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sports-mania/js-Video-conferencing-beta.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sports-mania/js-Video-conferencing-beta/issues"
+    },
+    "homepage": "https://github.com/sports-mania/js-Video-conferencing-beta#readme"
+}
+ 
